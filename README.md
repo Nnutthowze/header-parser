@@ -1,4 +1,4 @@
-# timestamp-api
-FCC Timestamp Microservice
+# header-parser
+FCC Request Header Parser Microservice
 
-https://camper-api-projects-nnutthowze.c9users.io/
+https://salty-island-97309.herokuapp.com/api/whoami
